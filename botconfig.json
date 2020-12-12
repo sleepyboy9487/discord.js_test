@@ -2,7 +2,7 @@
     "commandOptions": {
         "prefix": "!",
         "aliases": {
-            "test": [],
+            "test": ["david"],
             "exit": ["stop"],
             "image": ["pic", "picture", "img"],
             "mylevel": ["meolevel"],
